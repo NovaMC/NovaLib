@@ -8,6 +8,7 @@ plugins {
 }
 
 val prefixedName = "core-${project.name}"
+val targetJavaVersion = 17
 
 tasks {
     processResources {
@@ -18,7 +19,7 @@ tasks {
     }
     compileJava {
         options.encoding = Charsets.UTF_8.name()
-        options.release.set(17)
+        options.release.set(targetJavaVersion)
     }
     jar {
         archiveBaseName.set(prefixedName)
@@ -53,6 +54,6 @@ tasks {
 
 java {
     toolchain {
-        languageVersion.set(JavaLanguageVersion.of(17))
+        languageVersion.set(JavaLanguageVersion.of(targetJavaVersion))
     }
 }
