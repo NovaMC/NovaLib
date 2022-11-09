@@ -1,0 +1,6 @@
+name: @name@
+version: @version@
+api-version: 1.16
+softdepend: [WorldGuard]
+main: xyz.novaserver.core.Core
+author: Lui798
