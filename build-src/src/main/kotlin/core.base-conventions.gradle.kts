@@ -7,7 +7,7 @@ plugins {
     `maven-publish`
 }
 
-val prefixedName = "core-${project.name}"
+val prefixedName = "lib-${project.name}"
 val targetJavaVersion = 17
 
 tasks {

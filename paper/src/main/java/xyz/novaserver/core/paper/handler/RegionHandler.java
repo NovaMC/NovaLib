@@ -1,4 +1,4 @@
-package xyz.novaserver.core.handler;
+package xyz.novaserver.core.paper.handler;
 
 import com.sk89q.worldedit.util.Location;
 import com.sk89q.worldguard.LocalPlayer;
@@ -7,9 +7,9 @@ import com.sk89q.worldguard.protection.regions.ProtectedRegion;
 import com.sk89q.worldguard.session.MoveType;
 import com.sk89q.worldguard.session.Session;
 import com.sk89q.worldguard.session.handler.Handler;
-import xyz.novaserver.core.event.RegionEnterEvent;
-import xyz.novaserver.core.event.RegionExitEvent;
-import xyz.novaserver.core.event.RegionInitializeEvent;
+import xyz.novaserver.core.paper.event.RegionEnterEvent;
+import xyz.novaserver.core.paper.event.RegionExitEvent;
+import xyz.novaserver.core.paper.event.RegionInitializeEvent;
 
 import java.util.Set;
 

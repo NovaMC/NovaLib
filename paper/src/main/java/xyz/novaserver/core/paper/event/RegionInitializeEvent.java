@@ -1,4 +1,4 @@
-package xyz.novaserver.core.event;
+package xyz.novaserver.core.paper.event;
 
 import com.sk89q.worldguard.LocalPlayer;
 import com.sk89q.worldguard.protection.ApplicableRegionSet;

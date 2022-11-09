@@ -1,4 +1,4 @@
-package xyz.novaserver.core.util;
+package xyz.novaserver.core.common.util;
 
 import org.reflections.Reflections;
 import org.reflections.scanners.Scanners;

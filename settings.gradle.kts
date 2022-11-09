@@ -16,7 +16,7 @@ pluginManagement {
     includeBuild("build-src")
 }
 
-rootProject.name = "NovaCore"
+rootProject.name = "NovaLib"
 
 sequenceOf(
     "common",

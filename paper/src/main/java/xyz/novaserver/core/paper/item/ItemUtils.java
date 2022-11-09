@@ -1,4 +1,4 @@
-package xyz.novaserver.core.item;
+package xyz.novaserver.core.paper.item;
 
 import net.kyori.adventure.text.Component;
 import net.kyori.adventure.text.serializer.legacy.LegacyComponentSerializer;

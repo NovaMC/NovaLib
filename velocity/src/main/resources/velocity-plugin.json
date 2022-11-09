@@ -1,8 +1,8 @@
 {
-  "id": "nova-core",
+  "id": "nova-lib",
   "name": "@name@",
   "version": "@version@",
-  "main": "xyz.novaserver.core.Core",
+  "main": "xyz.novaserver.core.velocity.Core",
   "authors": ["Lui798"],
   "dependencies": []
 }

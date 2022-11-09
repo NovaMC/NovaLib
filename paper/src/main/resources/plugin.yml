@@ -2,5 +2,5 @@ name: @name@
 version: @version@
 api-version: 1.16
 softdepend: [WorldGuard]
-main: xyz.novaserver.core.Core
+main: xyz.novaserver.core.paper.Core
 author: Lui798

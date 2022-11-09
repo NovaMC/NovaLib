@@ -1,4 +1,0 @@
-name: Core
-version: '${version}'
-main: xyz.novaserver.core.core.Core
-api-version: 1.19

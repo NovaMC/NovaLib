@@ -1,4 +1,4 @@
-package xyz.novaserver.core.item;
+package xyz.novaserver.core.paper.item;
 
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;

@@ -1,4 +1,4 @@
-package xyz.novaserver.core;
+package xyz.novaserver.core.velocity;
 
 import com.google.inject.Inject;
 import com.velocitypowered.api.event.Subscribe;

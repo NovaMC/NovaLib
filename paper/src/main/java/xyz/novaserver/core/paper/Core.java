@@ -1,8 +1,8 @@
-package xyz.novaserver.core;
+package xyz.novaserver.core.paper;
 
 import com.sk89q.worldguard.WorldGuard;
 import org.bukkit.plugin.java.JavaPlugin;
-import xyz.novaserver.core.handler.RegionHandler;
+import xyz.novaserver.core.paper.handler.RegionHandler;
 
 public final class Core extends JavaPlugin {
     @Override
